@@ -2,6 +2,12 @@
 
 Radio Skonto App
 
+# [Google playstore](https://play.google.com/store/apps/details?id=com.radio.skonto.radio_skonto&hl=sv)
+
+
+# Photos for understanding of Radio Skonto TEV
+![Screenshot_3](https://github.com/user-attachments/assets/22d449a5-0fba-4630-b2fd-71940021a6d0)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
